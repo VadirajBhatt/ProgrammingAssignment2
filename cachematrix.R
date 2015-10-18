@@ -1,3 +1,6 @@
+## Coursera - R Programming - Programming Assignment 2: Lexical Scoping
+## Date: 19-Oct-2015
+
 ## Below are two functions that are used to create a
 ## special object that stores a matrix and caches its inverse.
 
